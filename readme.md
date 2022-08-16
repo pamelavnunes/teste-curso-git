@@ -1,0 +1,3 @@
+pamelateste1
+:wq
+
